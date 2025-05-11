@@ -19,7 +19,7 @@ Este repositório apresenta a proposta de arquitetura de software para um sistem
 
 ## 🧱 Componentes da Arquitetura
 
-![Diagrama da Arquitetura](diagrama.png)
+![Diagrama da Arquitetura](Diagrama.png)
 
 ### Fluxo principal:
 
