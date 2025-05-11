@@ -19,7 +19,7 @@ Este repositório apresenta a proposta de arquitetura de software para um sistem
 
 ## 🧱 Componentes da Arquitetura
 
-![Diagrama da Arquitetura](![Diagrama](https://github.com/user-attachments/assets/f1bf8d56-5718-4713-9b8d-eb4f49f3993f))
+![Diagrama da Arquitetura](diagrama.png)
 
 ### Fluxo principal:
 
@@ -68,7 +68,7 @@ Este repositório apresenta a proposta de arquitetura de software para um sistem
 
 ## 🚀 Como rodar?
 
-> Esta proposta pode ser expandida em microserviços reais com `.NET`, `RabbitMQ`, `Redis`, `PostgreSQL` e containers Docker.
+> Esta proposta pode ser expandida em microserviços reais com `.NET`, `RabbitMQ`, `Redis`, `PostgreeSQL` e containers Docker.
 
 ---
 
